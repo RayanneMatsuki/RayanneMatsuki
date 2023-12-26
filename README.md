@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Rayanne
+- 👀 Desenvolvedora BackEnd
+- 🌱 Atualmente Estudando Javascript | Node.js | Python | SQL
+- 📫  Entre em contato através do meu email e Whatsapp: rayannematsuki@hotmail.com / (11) 961874837
