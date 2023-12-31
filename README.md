@@ -1,8 +1,8 @@
 # **Rayanne Matsuki**
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+📚 Estudante de Análise e Desenvolvimento de Sistemas.
  
-Dev. Back-end JavaScript | Node.js | Python | SQL
+💅 Dev. Back-end JavaScript | Node.js | Python | SQL
 
 
 
