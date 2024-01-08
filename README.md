@@ -11,7 +11,7 @@ Tenho como esporte o [Kyudo Kai](https://kyudo.com.br/) 🏹
 
 Eu sou apaixonada pelo game ori and the blind forest/will of the wisps e the talos principle 🥰
 
-Sou fã de Melanie Martinez, Lana Del Ray, Lord, Coldplay, entre outros.
+Sou fã de Melanie Martinez, Lana Del Rey, Lord, Coldplay, entre outros.
 Escuto de tudo, desde pop, funk, pagode, forró, MPB, clássica, japonesa, indiana, coreana, árabe e por aí vai. 😂
 
 Tenho uma loja na Shopee de artigos de anime, fones de ouvidos e outras coisinhas que adoro e gosto muito de vender [Meow Meow Store](shopee.com.br/shop/309733922) 🐈        
