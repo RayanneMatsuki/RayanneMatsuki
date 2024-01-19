@@ -1,7 +1,7 @@
-# **Dev. Back-end 💅**
+# **Dev. Mobile💅**
 
 Olá, me chamo Rayanne!
-Sou estudante de Análise e Desenvolvimento de Sistemas, amo tecnologia e inovação. Estou mirando no back-end. Será que acerto? 😋
+Sou estudante de Análise e Desenvolvimento de Sistemas, amo tecnologia e inovação. Estou mirando no dev. mobile. Será que acerto? 😋
 
 Gosto muito de anime, filmes e moda japonesa. Me arrisco diariamente no idioma japonês, aliás 
 (はじめまして。レイアンネと言います。ブラジルのリオデジャネイロから来ました。３１歳です。よろしくお願いします。) 
@@ -43,9 +43,10 @@ Time is an illusion. Lunchtime doubly so.'
 
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="RayMatsuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="RayMatsuki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="RayMatsuki-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="RayMatsuki-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="RayMatsuki-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="RayMatsuki-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
    <img align="center" alt="RayMatsuki-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+    <img align="center" alt="RayMatsuki-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
   
